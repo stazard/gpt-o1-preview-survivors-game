@@ -1,5 +1,5 @@
 import React from 'react';
-import GameCanvas from './GameCanvas';
+import GameCanvas from './components/GameCanvas';
 
 const App: React.FC = () => {
   return (
